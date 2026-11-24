@@ -1,0 +1,12 @@
+body {
+    background-color: burlywood;
+}
+
+.container{
+    width: 70%;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 2%;
+    background-color: rgb(165, 138, 102);
+
+}
